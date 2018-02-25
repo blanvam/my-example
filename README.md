@@ -68,6 +68,7 @@ Running via Spring preloader in process 13301
 ### Views
 
 views/messages/_message.html.erb
+
 views/rooms/show.html.erb
 
 ## Config
