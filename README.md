@@ -1,5 +1,10 @@
 # README
 
+## Redis
+
+```bash
+docker run --name some-redis -d redis
+```
 
 ## Generate
 
